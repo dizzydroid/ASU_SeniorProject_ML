@@ -28,7 +28,7 @@ You are tasked with developing classifiers that can accurately predict the outco
  <img src="assets/knn.png">
 </div>  
 
-[K-Nearest Neighbors (KNN)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm):
+[K-Nearest Neighbors (KNN)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm):  
 KNN is a simple, instance-based learning algorithm. It predicts the class of a new sample based on the majority class among its nearest neighbors in the feature space.
 
 ### 2. **Logistic Regression**
